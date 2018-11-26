@@ -1,0 +1,19 @@
+{
+  "name": "basic-chat-starter",
+  "version": "0.0.0",
+  "description": "The starter for our basic chat application",
+  "author": "Roopa Medisetti",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^28.0.0",
+    "firebase": "^5.5.9",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-28.0.0.tar.gz",
+    "react-native-elements": "0.18.5",
+    "react-native-gifted-chat": "^0.5.0",
+    "react-navigation": "^3.0.0",
+    "react-redux": "^5.1.1",
+    "redux": "^4.0.1"
+  }
+}
